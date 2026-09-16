@@ -1,14 +1,4 @@
 /* mToken Gutenberg stylesheet - complete version.
    For production, load only the page-specific CSS when possible. */
-@import url("assets/css/mtoken-base.css");
-@import url("assets/css/mtoken-components.css");
-@import url("assets/css/pages/services.css");
-@import url("assets/css/pages/systems-guide.css");
-@import url("assets/css/pages/vip.css");
-@import url("assets/css/pages/k3.css");
-@import url("assets/css/pages/gica-guide.css");
-@import url("assets/css/pages/gica.css");
-@import url("assets/css/pages/csr.css");
-@import url("assets/css/pages/reissue.css");
-@import url("assets/css/pages/issue-certifiate.css");
-@import url("assets/css/pages/support-home.css");
+@import url("gutenberg-all-pages.css");
+

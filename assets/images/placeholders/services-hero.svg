@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 850" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1f3a"/>
+      <stop offset="100%" stop-color="#16385f"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="850" fill="url(#bg)"/>
+  <rect width="1200" height="850" fill="url(#grid)"/>
+  <rect x="20" y="20" width="1160" height="810" rx="16" fill="none" stroke="rgba(229,57,53,0.3)" stroke-width="2" stroke-dasharray="8 8"/>
+  <circle cx="600" cy="395" r="44" fill="rgba(229,57,53,0.15)"/>
+  <text x="600" y="405" font-family="Vazirmatn, Tahoma, sans-serif" font-size="32" fill="#e53935" text-anchor="middle">mToken</text>
+  <text x="600" y="465" font-family="Vazirmatn, Tahoma, sans-serif" font-size="20" fill="#f8fafc" text-anchor="middle" font-weight="600">محل تصویر هیرو خدمات راه‌اندازی</text>
+  <text x="600" y="500" font-family="sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">1200 × 850</text>
+</svg>

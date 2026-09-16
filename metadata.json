@@ -1,0 +1,6 @@
+{
+  "name": "mToken Gutenberg Preview",
+  "description": "Interactive Gutenberg block preview and digital certificate support documentation for mToken",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
